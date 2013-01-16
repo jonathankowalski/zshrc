@@ -8,6 +8,10 @@
 #
 alias ..='cd ..'
 
+#git
+alias gc='git commit'
+alias gp='git push'
+
 
 # Functions
 ###########
